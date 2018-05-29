@@ -1,0 +1,9 @@
+{
+    "name": "ecksmen/woocommerce-subscriptions-1",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "dist": {
+        "url": "git@bitbucket.org:ecksmen/woocommerce-subscriptions-1.git",
+        "type": "git"
+    }
+}
